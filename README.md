@@ -2,7 +2,7 @@
 
 A world-class semiconductor supply chain analytics dashboard built with [Next.js](https://nextjs.org/), [React](https://react.dev/), and [shadcn/ui](https://ui.shadcn.com/).
 
-![Dashboard Screenshot](https://ui.shadcn.com/og.jpg)
+![Dashboard Screenshot](./public/screenshot.png)
 
 ## Features
 
